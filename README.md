@@ -36,17 +36,17 @@ cd bmi-calculator
 npm install
 
 # Usage
-## Start the Server:
+# Start the Server:
 node root.js
 # The server will run on http://localhost:3000.
 
-## Open Your Web Browser:
+# Open Your Web Browser:
 # Visit http://localhost:3000 to access the BMI Calculator.
 
-## Enter Information:
+# Enter Information:
 # Enter the required information (age, gender, height, weight, and unit) and click the "Calculate BMI" button.
 
-## View BMI History:
+# View BMI History:
 # To view the BMI history, navigate to http://localhost:3000/history.
 
 # Dependencies
