@@ -38,16 +38,15 @@ npm install
 # Usage
 # Start the Server:
 node root.js
-# The server will run on http://localhost:3000.
+The server will run on http://localhost:3000.
 
 # Open Your Web Browser:
-# Visit http://localhost:3000 to access the BMI Calculator.
-
-# Enter Information:
-# Enter the required information (age, gender, height, weight, and unit) and click the "Calculate BMI" button.
+Visit http://localhost:3000 to access the BMI Calculator.
+Enter Information:
+Enter the required information (age, gender, height, weight, and unit) and click the "Calculate BMI" button.
 
 # View BMI History:
-# To view the BMI history, navigate to http://localhost:3000/history.
+To view the BMI history, navigate to http://localhost:3000/history.
 
 # Dependencies
 - Express: Fast, unopinionated, minimalist web framework for Node.js.
