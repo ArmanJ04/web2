@@ -9,8 +9,6 @@ A simple Body Mass Index (BMI) calculator with a history feature.
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
-- [Credits](#credits)
-- [License](#license)
 
 ## Introduction
 
