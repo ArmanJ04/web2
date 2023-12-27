@@ -7,7 +7,6 @@ A simple Body Mass Index (BMI) calculator with a history feature.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
 - [Credits](#credits)
@@ -28,14 +27,13 @@ The BMI Calculator is a web-based application that calculates Body Mass Index (B
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
+   git clone https://github.com/ArmanJ04/bmi-calculator.git
 # Navigate to the Project Directory:
 cd bmi-calculator
 
 # Install Dependencies:
 npm install
 
-# Usage
 # Start the Server:
 node root.js
 The server will run on http://localhost:3000.
