@@ -47,6 +47,7 @@ To view the BMI history, navigate to http://localhost:3000/history.
 # Dependencies
 - Express: Fast, unopinionated, minimalist web framework for Node.js.
 - body-parser: Node.js body parsing middleware.
+- moment: package for parsing, validating, manipulating, and formatting dates and times.
 
 # Project Structure
 - bmiCalculator.html: HTML file containing the BMI calculator form.
