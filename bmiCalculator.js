@@ -4,8 +4,13 @@ function calculateBMI() {
     const height = document.getElementById('height').value;
     const weight = document.getElementById('weight').value;
     const unit = document.getElementById('unit').value;
+
     if (!age || !height || !weight) {
         alert('Please fill in all required fields.');
+        return;
+    }
+    if (isNaN(height) || isNaN(weight) || height <= 0 || weight <= 0) {
+        alert('Please enter valid values for height and weight.');
         return;
     }
     fetch('/bmicalculator', {
