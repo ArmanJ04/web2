@@ -25,7 +25,7 @@ The BMI Calculator is a web-based application that calculates Body Mass Index (B
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/ArmanJ04/bmi-calculator.git
+   git clone https://github.com/ArmanJ04/web2.git
 # Navigate to the Project Directory:
 cd bmi-calculator
 
